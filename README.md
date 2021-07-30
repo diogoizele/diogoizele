@@ -2,22 +2,22 @@
 
 My name is Diogo Izele, I'm from Brazil 🌎 I'm a **Computer Technician** from the _Federal Institute of Education Science and Technology Sul-Rio-Grandense_ (IFSUL) 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogoizele&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogoizele&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogoizele&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogoizele&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
 #### I'm currently learning web development 📋
 
 > - Javascript Vanilla
-> - VueJS
 > - ReactJS
+> - VueJS
 > - HTML5
 > - CSS3
 
 <div><br>
   <img align="center" alt="Diogo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">
   <img align="center" alt="Diogo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width:100%;">
-  <img align="center" alt="Diogo-Vue" height="30" width="40" src="https://br.vuejs.org//images/logo.png" style="max-width:100%;">
+  <img align="center" alt="Diogo-Vue" height="30" width="30" src="https://br.vuejs.org//images/logo.png" style="max-width:100%;">
   <img align="center" alt="Diogo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;">
   <img align="center" alt="Diogo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;">
 </div>
