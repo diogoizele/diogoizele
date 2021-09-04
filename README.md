@@ -16,14 +16,14 @@ My name is Diogo Izele, I'm from Brazil 🌎 I'm a **Computer Technician** from 
 > - PostgreSQL (SQL)
 > - Firebase Firestore (NoSQL)
 
-<div><br>
-  <img align="center" alt="Diogo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width:100%;">
-  <img align="center" alt="Diogo-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width:100%;">
-  <img align="center" alt="Diogo-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width:100%;">
-  <img align="center" alt="Diogo-ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width:100%;">
-  <img align="center" alt="Diogo-VueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="max-width:100%;">
-  <img align="center" alt="Diogo-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" style="max-width:100%;">
-  <img align="center" alt="Diogo-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="max-width:100%;">
+<div style="display: flex; align-items: center; justify-content:center"><br>
+  <img align="center" alt="Diogo-Js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width:100%;">
+  <img align="center" alt="Diogo-HTML5" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width:100%;">
+  <img align="center" alt="Diogo-CSS3" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width:100%;">
+  <img align="center" alt="Diogo-ReactJS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width:100%;">
+  <img align="center" alt="Diogo-VueJS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="max-width:100%;">
+  <img align="center" alt="Diogo-PostgreSQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" style="max-width:100%;">
+  <img align="center" alt="Diogo-Firebase" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="max-width:100%;">
 </div>
 
 ### Where to find me 🤳
