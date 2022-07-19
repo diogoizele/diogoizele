@@ -7,7 +7,7 @@ Front-End Developer
 I have been studying programming for about 2 years 🎓 I have a degree in computer science from Instituto Federal Sul-Riograndense, where I had my first contact with programming using the JavaScript language. 👨‍💻 I am currently pursuing a Bachelor's Degree in Computer Science at Unisinos to increase my academic proficiency in programming and I plan to become an excellent software engineer soon.
 
 * 🌍  I'm based in Brazil
-* 🚀  I'm currently working on [SBsistemas](http://www.sbsistemas.com.br/)
+* 🚀  I'm currently working on [CWI Software](http://www.cwi.com.br/)
 * 🧠  I'm learning Advanced Practices with React and React Native
 * ⚡  "If In Doubt, Meriadoc, Always Follow Your Nose!"
 
