@@ -17,6 +17,8 @@ I have been studying programming for about 3 years 🎓 I am greaduated as a com
 * Java SpringBoot
 * C language and data structure
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogoizele&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Skills
 
 <p align="left">
@@ -41,5 +43,3 @@ I have been studying programming for about 3 years 🎓 I am greaduated as a com
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/diogoizele" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/diogoizele" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/diogoizele" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-<a href="https://github.com/diogoizele" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoizele&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
