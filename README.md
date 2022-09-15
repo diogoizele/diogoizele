@@ -17,7 +17,7 @@ I have been studying programming for about 3 years 🎓 I am greaduated as a com
 * Java SpringBoot
 * C language and data structure
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogoizele&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogoizele&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills
 
