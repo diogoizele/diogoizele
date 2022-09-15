@@ -6,9 +6,9 @@ Web Developer
 
 I have been studying programming for about 3 years 🎓 I am greaduated as a computer technician by the Instituto Federal Sul-Riograndense, where I had my first contact with programming using the JavaScript language. 👨‍💻 I am currently cursuing a Bachelor's Degree in Information Systems at Unisinos to increase my academic proficiency in programming and I plan to become an excellent software engineer soon.
 
-* 🌍  I'm based in Brazil
-* 🚀  I'm currently working on [CWI Software](http://www.cwi.com.br/)
-* 🧝‍♂️ I'm a big fan of The Lord of the Rings 💍
+* 🌍  I'm based in Brazil
+* 🚀  I'm currently working on [CWI Software](http://www.cwi.com.br/)
+* 🧝‍♂️  I'm a big fan of The Lord of the Rings 💍
 
 ### Learning
 * React - Advanced Practices
