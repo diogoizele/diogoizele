@@ -1,15 +1,21 @@
 Hi 👋 My name is Diogo Izele
 ============================
 
-Front-End Developer
+Web Developer
 -------------------
 
-I have been studying programming for about 2 years 🎓 I have a degree in computer science from Instituto Federal Sul-Riograndense, where I had my first contact with programming using the JavaScript language. 👨‍💻 I am currently pursuing a Bachelor's Degree in Computer Science at Unisinos to increase my academic proficiency in programming and I plan to become an excellent software engineer soon.
+I have been studying programming for about 3 years 🎓 I am greaduated as a computer technician by the Instituto Federal Sul-Riograndense, where I had my first contact with programming using the JavaScript language. 👨‍💻 I am currently cursuing a Bachelor's Degree in Information Systems at Unisinos to increase my academic proficiency in programming and I plan to become an excellent software engineer soon.
 
 * 🌍  I'm based in Brazil
 * 🚀  I'm currently working on [CWI Software](http://www.cwi.com.br/)
-* 🧠  I'm learning Advanced Practices with React and React Native
-* ⚡  "If In Doubt, Meriadoc, Always Follow Your Nose!"
+* 🧝‍♂️ I'm a big fan of The Lord of the Rings 💍
+
+### Learning
+* React - Advanced Practices
+* NodeJS
+* NextJS
+* Java SpringBoot
+* C language and data structure
 
 ### Skills
 
@@ -35,15 +41,5 @@ I have been studying programming for about 2 years 🎓 I have a degree in compu
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/diogoizele" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/diogoizele" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/diogoizele" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/diogoizele"><img src="https://github-readme-stats.vercel.app/api?username=diogoizele&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="diogoizele's GitHub stats" /></a>
-
-<a href="http://www.github.com/diogoizele"><img src="https://github-readme-streak-stats.herokuapp.com/?user=diogoizele&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/diogoizele"><img src="https://activity-graph.herokuapp.com/graph?username=diogoizele&bg_color=1c1917&color=ffffff&line=facc15&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/diogoizele" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoizele&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
