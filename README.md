@@ -12,9 +12,8 @@ I have been studying programming for about 3 years 🎓 I am greaduated as a com
 
 ### Learning
 * React - Advanced Practices
-* NodeJS
-* NextJS
-* Java SpringBoot
+* React Native
+* Mobile Development
 * C language and data structure
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogoizele&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
