@@ -1,0 +1,27 @@
+{
+  "name": "diogoizele",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,json}\"",
+    "prettier:fix": "prettier --write \"src/**/*.{js,jsx,ts,tsx,json}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogoizele/diogoizele.git"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "date-stringifier": "^1.1.4",
+    "dotenv": "^16.0.1",
+    "jimp": "^0.16.1",
+    "prettier": "^2.7.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogoizele/diogoizele/issues"
+  },
+  "homepage": "https://github.com/diogoizele/diogoizele#readme"
+}
