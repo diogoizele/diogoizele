@@ -8,9 +8,9 @@ module.exports = async function (user) {
 
   const getRecents = (a, b) => (new Date(a.updated_at) >= new Date(b.updated_at) ? -1 : 1);
   const formatJson = (elem) => `<a href="${elem.html_url}">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=${user}&theme=vue-dark&repo=${encodeURIComponent(
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=${user}&theme=vue-dark&repo=${encodeURIComponent(
     elem.name,
-  )}&theme=moltack&border_radius=20"/>
+  )}"/>
   </a>`;
 
   return repos.sort(getRecents).slice(0, process.env.repoQuantity).map(formatJson).join('\n');

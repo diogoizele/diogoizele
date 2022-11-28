@@ -4,7 +4,7 @@ module.exports = function () {
   const started = process.env.started.split('/').reverse();
   const past = new Date(...started).getTime();
   const now = new Date().getTime();
-
+  
   const ms = {
     year: 31536000,
     month: 2628000,
@@ -26,5 +26,5 @@ module.exports = function () {
 
   const plural = (num, word) => `${num} ${word}${num === 1 ? '' : 's'}`;
 
-  return `${plural(years.quotient, 'Year')}, ${plural(months.quotient,'Month')} and ${plural(days.quotient, 'Day')} since I started programming`;
+  return `${plural(years.quotient, 'Year')}, ${plural(months.quotient,'Month')} and ${plural(days.quotient, 'Day')}`;
 };
