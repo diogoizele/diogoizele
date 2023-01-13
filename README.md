@@ -16,27 +16,6 @@ I have been studying programming for about 2 Years, 11 Months and 29 Days 🎓 I
 - 🚀  I'm currently working on [CWI Software](http://www.cwi.com.br/)
 -  🧝‍♂️  I'm a big fan of The Lord of the Rings 💍
 
-<!-- <h2 style="font-size: 1.5em; font-weight: bold; color: #1DE9B6;"> My recent works </h2>
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 1rem;">
-<a href="https://github.com/diogoizele/diogoizele">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diogoizele&theme=vue-dark&repo=diogoizele"/>
-  </a>
-<a href="https://github.com/diogoizele/data-structure">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diogoizele&theme=vue-dark&repo=data-structure"/>
-  </a>
-<a href="https://github.com/diogoizele/gofinance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diogoizele&theme=vue-dark&repo=gofinance"/>
-  </a>
-<a href="https://github.com/diogoizele/ignite-template-react-native-todos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diogoizele&theme=vue-dark&repo=ignite-template-react-native-todos"/>
-  </a>
-<a href="https://github.com/diogoizele/financeiro_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diogoizele&theme=vue-dark&repo=financeiro_app"/>
-  </a>
-<a href="https://github.com/diogoizele/financeiro_api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diogoizele&theme=vue-dark&repo=financeiro_api"/>
-  </a>
-</div> -->
 
 <div  align=center >
 <img alt=gitstats src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoizele&langs_count=10&layout=compact&theme=vue-dark"/>
