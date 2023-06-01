@@ -21,7 +21,7 @@ I started my programming journey in early 2019, although in an unstructured mann
 - Frontend Development: :computer: Solid command of HTML, CSS, and JavaScript.
 - Frameworks: :rocket: Proficient in React and TypeScript.
 - Mobile Development: :iphone: Experienced in React Native.
-- Backend Technologies: :gear: Knowledge of Node.js, Java, Express, and databases such as PostgreSQL, MySQL, Firebase, and MongoDB.
+- Backend Technologies: :gear: Knowledge of Node.js, Express, Java, Spring, C/C++, PostgreSQL, MySQL, Firebase and MongoDB.
 - Other Skills: :bulb: C and C++ programming languages, familiarity with Agile methodologies like Scrum and Kanban.
 
 ## Projects
