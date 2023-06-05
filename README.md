@@ -36,8 +36,3 @@ Feel free to connect with me on LinkedIn or explore my GitHub repositories. You 
 <a href="https://www.linkedin.com/in/diogoizele/" target="_new"><img src="https://img.shields.io/badge/LinkedIn-Diogo%20Izele-blue?style=flat-square&amp;logo=linkedin" alt="LinkedIn"></a>
 <a href="https://diogoizele.com" target="_new"><img src="https://img.shields.io/badge/Portfolio-diogoizele.com-orange?style=flat-square" alt="Portfolio"></a>
 
-Feel free to reach out to me through any of the above channels. I'm always open to questions, suggestions, or collaboration opportunities!
-
-Additionally, I'd like to emphasize my curiosity and passion for studying technology, my eagerness to discover new things, and my drive to understand the underlying foundations and inner workings of various systems.
-
-Furthermore, it's important to mention that I'm currently pursuing two technology degrees simultaneously. I'm studying Computer Science at a federal institution, where I dive into coding, algorithms, data structures, C/C++, digital circuits, and discrete mathematics. I'm also enrolled in a Systems Information program,
