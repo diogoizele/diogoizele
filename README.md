@@ -1,5 +1,5 @@
 <a href="https://diogoizele.com" target="_blank">
-<img alt="cover" src="https://media.licdn.com/dms/image/v2/D4D16AQHQkrBzYOFtEg/profile-displaybackgroundimage-shrink_350_1400/B4DZW7IzfOH4Ac-/0/1742601403028?e=1747872000&v=beta&t=JlFe88zYMsQmtxxSYDyd6LS3Y6Hy5HCprAL0r3grhVw">
+<img alt="cover" src="./src/resources/images/cover-2.png">
 </a>
 
 ## About Me
