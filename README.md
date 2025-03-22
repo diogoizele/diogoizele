@@ -1,30 +1,26 @@
 <a href="https://diogoizele.com" target="_blank">
-<img alt="cover" src="./src/resources/images/cover.png">
+<img alt="cover" src="https://media.licdn.com/dms/image/v2/D4D16AQHQkrBzYOFtEg/profile-displaybackgroundimage-shrink_350_1400/B4DZW7IzfOH4Ac-/0/1742601403028?e=1747872000&v=beta&t=JlFe88zYMsQmtxxSYDyd6LS3Y6Hy5HCprAL0r3grhVw">
 </a>
-
 
 ## About Me
 
-I started my programming journey in early 2019, although in an unstructured manner. However, it was in May 2020 when I truly dedicated myself to development and started studying continuously. In December 2021, I began my professional career as a developer, where I contributed to the development of an internal design system for both web and mobile applications. I also participated in the development of a mobile app. Later, in June 2022, I embarked on a training program as an intern at a large company, focusing on software development. Two months after the training, I joined the company as an intern, where I worked in developing, maintaining, debugging, and adding new features to the mobile app for Camicado stores, which is part of the renowned Brazilian group, Grupo Renner. Now I'm working as a Systems Analyst supporting the Renner group's e-commerce businesses, with an emphasis on self-payment methods.
+In early **2019**, I began my programming journey, initially focusing on web development. By **December 2021**, I started my professional career as a developer, contributing to a design system for both web and mobile apps. I later joined a large company as an intern, working on the **[Camicado stores](https://www.camicado.com.br/)** mobile app, and subsequently moved to the **[Lojas Renner](https://www.lojasrenner.com.br/)** sustaining team, where I gained a comprehensive understanding of the software engineering process as a full-stack developer.
 
-## Skills
+Motivated by my passion for mobile development, I made an internal move in **March 2025** to become a mobile developer at **[Banco ABC Brasil](https://www.abcbrasil.com.br/)**, focusing on technologies like **React Native**, **Kotlin**, **Java**, and **Swift**. This role is a crucial step towards my goal of becoming a mobile software engineering expert, and I am excited to continue my growth in mobile development, with a focus on impactful, large-scale projects.
 
-- Frontend Development: :computer: Solid command of HTML, CSS, and JavaScript.
-- Frameworks: :rocket: Proficient in React and TypeScript.
-- Mobile Development: :iphone: Experienced in React Native.
-- Backend Technologies: :gear: Knowledge of Node.js, Express, Java, Spring, C/C++, PostgreSQL, MySQL, Firebase and MongoDB.
-- DevOps: 👷 Docker, Kubernetes and Gitlab CI/CD.
-- Other Skills: :bulb: C and C++ programming languages, familiarity with Agile methodologies like Scrum and Kanban.
+## Core Skills & Technologies
 
-## Projects
+- **Mobile Development**: :iphone: Solid experience in **React Native**. Currently expanding my knowledge of **Kotlin** and **Swift** in my role at Banco ABC Brasil.
+- **Frontend Development**: :computer: Strong experience with **HTML**, **CSS**, and **JavaScript**, focused on building intuitive user interfaces.
+- **Frameworks**: :rocket: Advanced knowledge of **React** and **TypeScript**, with experience in developing scalable web applications.
+- **Backend Development**: :gear: Knowledge of **Node.js**, **Express**, **Java**, **Spring**, and databases like **PostgreSQL**, **MySQL**, **Firebase**, and **MongoDB**.
+- **DevOps**: 👷 Hands-on experience with **Docker**, **Kubernetes**, and **GitLab CI/CD**.
+- **Additional Skills**: :bulb: Familiar with **Agile methodologies** (Scrum, Kanban), and experience in **Linux OS**.
 
-Please visit my portfolio website [here](https://diogoizele.com/projects) to explore some of my projects and gain a better understanding of my work.
 
 ## Connect with Me
 
-Feel free to connect with me on LinkedIn or explore my GitHub repositories. You can also visit my portfolio website for more information.
-
+Feel free to connect with me on LinkedIn or explore my GitHub repositories. I'm also always open to collaborating on exciting mobile projects globally. You can also visit my portfolio website for more details on my work and future projects.
 
 <a href="https://www.linkedin.com/in/diogoizele/" target="_new"><img src="https://img.shields.io/badge/LinkedIn-Diogo%20Izele-blue?style=flat-square&amp;logo=linkedin" alt="LinkedIn"></a>
 <a href="https://diogoizele.com" target="_new"><img src="https://img.shields.io/badge/Portfolio-diogoizele.com-orange?style=flat-square" alt="Portfolio"></a>
-
